@@ -108,20 +108,20 @@ Ainda aprendendo, sempre construindo, dormindo quando dá.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JotaPe-afk&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=jotape-afk&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPe-afk&theme=dark&layout=compact&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape-afk&theme=dark&layout=compact&hide_border=true" 
   />
   
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JotaPe-afk/JotaPe-afk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JotaPe-afk/JotaPe-afk/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JotaPe-afk/JotaPe-afk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotape-afk/jotape-afk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotape-afk/jotape-afk/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jotape-afk/jotape-afk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </p>
